@@ -1,0 +1,27 @@
+{
+  "name": "Programme force débutant",
+  "progression": {
+    "mode": "percentage",
+    "weeklyIncrease": 5
+  },
+  "exercises": [
+    {
+      "id": "squat",
+      "name": "Squat",
+      "sets": 4,
+      "reps": 8,
+      "weightKg": 60,
+      "restBetweenSetsSec": 120,
+      "restBetweenExercisesSec": 180
+    },
+    {
+      "id": "bench_press",
+      "name": "Développé couché",
+      "sets": 4,
+      "reps": 8,
+      "weightKg": 45,
+      "restBetweenSetsSec": 120,
+      "restBetweenExercisesSec": 180
+    }
+  ]
+}
